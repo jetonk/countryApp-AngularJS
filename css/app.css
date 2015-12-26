@@ -1,0 +1,20 @@
+.div-btn-home{
+    padding-top: 4px;
+}
+.clickable{
+    cursor: pointer;
+}
+.divTable{
+    overflow-y: auto;
+    height: 500px;
+}
+.thmbCountry{
+    width: 35px;
+    height: 31px;
+}
+.label-default{
+    font-size: 18px;
+}
+.label-info{
+    font-size: 18px;
+}
